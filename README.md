@@ -9,12 +9,12 @@
 
 #### Web Browser
 - Firefox *for desktop*
-- Cromite *for Android devices*
-- Safari *for Apple mobile devies*
+- Cromite *for Android device*
+- Safari *for Apple mobile device*
 
 #### Web Framework
-- FastAPI *for simple web application backends*
-- Spring Framework *for more complex web application backends*
+- FastAPI *for simple web application backend*
+- Spring Framework *for more complex web application backend*
 - Svelte *for reactive web application*
 
 #### Operating System
@@ -25,8 +25,3 @@
 
 #### Container Runtime
 - Podman
-
-#### FDM 3D Printing Slicer
-- Orca Slicer
-- Cura
-
